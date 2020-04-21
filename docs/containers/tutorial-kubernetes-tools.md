@@ -13,7 +13,7 @@ ms.workload:
 
 The Visual Studio Kubernetes Tools help streamline the development of containerized applications targeting Kubernetes. Visual Studio can automatically create the configuration-as-code files needed to support Kubernetes deployment, such as Dockerfiles and Helm charts. You can debug your code in a live Azure Kubernetes Service (AKS) cluster using Azure Dev Spaces, or publish directly to an AKS cluster from inside Visual Studio.
 
-This tutorial covers using Visual Studio to add Kubernetes support to an project and publish to AKS. If you are primarily interested in using [Azure Dev Spaces](/azure/dev-spaces/) to debug and test your project running in AKS, you can jump to the [Azure Dev Spaces tutorial](/azure/dev-spaces/get-started-netcore-visualstudio) instead.
+This tutorial covers using Visual Studio to add Kubernetes support to a project and publish it to AKS. If you are primarily interested in using [Azure Dev Spaces](/azure/dev-spaces/) to debug and test your project running in AKS, you can jump to the [Azure Dev Spaces tutorial](/azure/dev-spaces/get-started-netcore-visualstudio) instead.
 
 ## Prerequisites
 
